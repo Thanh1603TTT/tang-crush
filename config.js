@@ -13,4 +13,3 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'bạn biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    
